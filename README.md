@@ -351,19 +351,15 @@ E-commerece-Data-Analysis/
 
 ---
 
-## 📂 Analytical Outputs
-
-The project produces reusable datasets including:
-
-* `customer_rfm.csv`
-* `rfm_segment_summary.csv`
-* `customer_analysis.csv`
-* `country_analysis.csv`
-* `monthly_revenue.csv`
-* `top_products.csv`
-* `cohort_retention.csv`
-
-These datasets separate the analytical layer from the visualization layer and can be reused for reporting or further analysis.
+📂 Exported Analytical Outputs
+Modular flat files generated to separate computation layers from visualization:
+- `customer_rfm.csv`
+- `rfm_segment_summary.csv`
+- `customer_analysis.csv`
+- `country_analysis.csv`
+- `monthly_revenue.csv`
+- `top_products.csv`
+- `cohort_retention.csv`
 
 ---
 
